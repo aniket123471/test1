@@ -1,0 +1,595 @@
+Tue Nov 11 08:30:12 2025 [19872][1][SECURITY] OutboundEmail::checkSavePermissions - not logged in - skipping check
+Tue Nov 11 08:30:12 2025 [19872][1][FATAL] User update error: Temp User is not retrieved at ID 1, boolean given
+Tue Nov 11 08:30:13 2025 [19872][1][FATAL] Email address save error
+Tue Nov 11 08:30:31 2025 [19872][1][FATAL] User update error: Temp User is not retrieved at ID seed_jim_id, boolean given
+Tue Nov 11 08:30:32 2025 [19872][1][FATAL] Email address save error
+Tue Nov 11 08:30:32 2025 [19872][1][FATAL] User update error: Temp User is not retrieved at ID seed_sarah_id, boolean given
+Tue Nov 11 08:30:32 2025 [19872][1][FATAL] Email address save error
+Tue Nov 11 08:30:32 2025 [19872][1][FATAL] User update error: Temp User is not retrieved at ID seed_sally_id, boolean given
+Tue Nov 11 08:30:32 2025 [19872][1][FATAL] Email address save error
+Tue Nov 11 08:30:32 2025 [19872][1][FATAL] User update error: Temp User is not retrieved at ID seed_max_id, boolean given
+Tue Nov 11 08:30:33 2025 [19872][1][FATAL] Email address save error
+Tue Nov 11 08:30:33 2025 [19872][1][FATAL] User update error: Temp User is not retrieved at ID seed_will_id, boolean given
+Tue Nov 11 08:30:33 2025 [19872][1][FATAL] Email address save error
+Tue Nov 11 08:30:33 2025 [19872][1][FATAL] User update error: Temp User is not retrieved at ID seed_chris_id, boolean given
+Tue Nov 11 08:30:33 2025 [19872][1][FATAL] Email address save error
+Tue Nov 11 08:33:09 2025 [19872][1][SECURITY] Invalid ext  logger_file_ext : ''.
+Tue Nov 11 08:33:09 2025 [19872][1][SECURITY] Setting logger_file_ext to '.log'.
+Tue Nov 11 08:33:09 2025 [19872][1][SECURITY] Setting logger_file_name to ''.
+Tue Nov 11 08:33:09 2025 [19872][1][SECURITY] Log file extension can't be blank.
+Tue Nov 11 08:33:09 2025 [19872][1][SECURITY] Setting logger_file_name to ''.
+Tue Nov 11 08:33:09 2025 [19872][1][SECURITY] Log file extension can't be blank.
+Tue Nov 11 09:48:20 2025 [19872][1][FATAL] User update error: Temp User is not retrieved at ID 87530dc8-2353-6a1f-28a1-691306317963, boolean given
+Tue Nov 11 09:48:20 2025 [19872][1][FATAL] Email address save error
+Tue Nov 11 09:48:55 2025 [19872][1][FATAL] Email address save error
+Tue Nov 11 09:56:25 2025 [19872][1][FATAL] Email address save error
+Tue Nov 11 09:56:26 2025 [19872][1][FATAL] Email address save error
+Tue Nov 11 09:56:26 2025 [19872][1][FATAL] Email address save error
+Tue Nov 11 09:56:27 2025 [19872][1][FATAL] Email address save error
+Tue Nov 11 09:56:28 2025 [19872][1][FATAL] Email address save error
+Tue Nov 11 09:56:29 2025 [19872][1][FATAL] Email address save error
+Tue Nov 11 09:56:29 2025 [19872][1][FATAL] Email address save error
+Tue Nov 11 10:09:30 2025 [19872][-none-][FATAL] FAILED LOGIN:attempts[1], ip[::1], username[sales_user]
+Tue Nov 11 10:17:42 2025 [19872][1][FATAL] User update error: Temp User is not retrieved at ID 999059bc-12de-4efd-a191-69130db3f1d6, boolean given
+Tue Nov 11 10:17:42 2025 [19872][1][FATAL] Email address save error
+Tue Nov 11 10:18:47 2025 [19872][-none-][FATAL] SECURITY: User authentication for suport_user failed
+Tue Nov 11 10:18:47 2025 [19872][-none-][FATAL] FAILED LOGIN:attempts[1], ip[::1], username[suport_user]
+Tue Nov 11 10:57:02 2025 [19872][1][FATAL] log call at: modules/EmailMan/tpls/config.tpl - styleChecked is not set
+Tue Nov 11 10:58:40 2025 [19872][1][FATAL] Mysqli_query failed.
+Tue Nov 11 10:58:40 2025 [19872][1][FATAL]  Query Failed: SELECT date_modified FROM outbound_email WHERE id='c3128b1b-5913-22ac-333b-6912f440bfcb' AND modified_user_id != '1' AND (modified_user_id != '' OR date_modified > ''): MySQL error 1525: Incorrect DATETIME value: ''
+Tue Nov 11 11:05:39 2025 [19872][1][FATAL] An Imap error detected: "IMAP open error: Can not authenticate to IMAP server: Could not connect to imap.gmail.com:143: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond"
+Tue Nov 11 11:05:39 2025 [19872][1][FATAL] An Imap error detected: "IMAP open error | debug data"
+Tue Nov 11 11:05:39 2025 [19872][1][FATAL] An Imap error detected: "ImapHandler:open: {imap.gmail.com:143\/service=imap\/notls\/novalidate-cert\/secure}INBOX"
+Tue Nov 11 11:05:39 2025 [19872][1][FATAL] An Imap error detected: "ImapHandler:open: aniketparkhi2004@gmail.com"
+Tue Nov 11 11:05:39 2025 [19872][1][FATAL] An Imap error detected: "ImapHandler:open: password is empty: no"
+Tue Nov 11 11:05:39 2025 [19872][1][FATAL] An Imap error detected: "ImapHandler:open: 0"
+Tue Nov 11 11:05:39 2025 [19872][1][FATAL] An Imap error detected: "IMAP open error | debug data end "
+Tue Nov 11 11:05:39 2025 [19872][1][FATAL] ImapHandler trying to use a non valid resource stream.
+Tue Nov 11 11:05:39 2025 [19872][1][FATAL] An Imap error detected: "IMAP open error:Can not authenticate to IMAP server: Could not connect to imap.gmail.com:143: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond"
+Tue Nov 11 11:05:39 2025 [19872][1][FATAL] ImapHandler trying to use a non valid resource stream.
+Tue Nov 11 11:05:39 2025 [19872][1][FATAL] ImapHandler trying to use a non valid resource stream.
+Tue Nov 11 11:05:39 2025 [19872][1][FATAL] An Imap error detected: "Can not authenticate to IMAP server: Could not connect to imap.gmail.com:143: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond"
+Tue Nov 11 11:07:53 2025 [19872][1][FATAL] An Imap error detected: "IMAP close error"
+Tue Nov 11 11:08:02 2025 [19872][1][FATAL] An Imap error detected: "IMAP close error"
+Tue Nov 11 11:44:14 2025 [19872][1][FATAL] Email address save error
+Tue Nov 11 11:53:33 2025 [19872][1][FATAL] Email address save error
+Tue Nov 11 12:11:58 2025 [19872][1][FATAL] An Imap error detected: "IMAP close error"
+Tue Nov 11 12:13:31 2025 [19872][1][FATAL] An Imap error detected: "IMAP open error: Can not authenticate to IMAP server: Could not connect to imap.gmail.com:143: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond"
+Tue Nov 11 12:13:31 2025 [19872][1][FATAL] An Imap error detected: "IMAP open error | debug data"
+Tue Nov 11 12:13:31 2025 [19872][1][FATAL] An Imap error detected: "ImapHandler:open: {imap.gmail.com:143\/service=imap\/notls\/novalidate-cert\/secure}INBOX"
+Tue Nov 11 12:13:31 2025 [19872][1][FATAL] An Imap error detected: "ImapHandler:open: aniketparkhi2004@gmail.com"
+Tue Nov 11 12:13:31 2025 [19872][1][FATAL] An Imap error detected: "ImapHandler:open: password is empty: no"
+Tue Nov 11 12:13:31 2025 [19872][1][FATAL] An Imap error detected: "ImapHandler:open: 0"
+Tue Nov 11 12:13:31 2025 [19872][1][FATAL] An Imap error detected: "IMAP open error | debug data end "
+Tue Nov 11 12:13:31 2025 [19872][1][FATAL] ImapHandler trying to use a non valid resource stream.
+Tue Nov 11 12:13:31 2025 [19872][1][FATAL] An Imap error detected: "IMAP open error:Can not authenticate to IMAP server: Could not connect to imap.gmail.com:143: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond"
+Tue Nov 11 12:13:31 2025 [19872][1][FATAL] ImapHandler trying to use a non valid resource stream.
+Tue Nov 11 12:13:31 2025 [19872][1][FATAL] ImapHandler trying to use a non valid resource stream.
+Tue Nov 11 12:13:31 2025 [19872][1][FATAL] An Imap error detected: "Can not authenticate to IMAP server: Could not connect to imap.gmail.com:143: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond"
+Tue Nov 11 12:14:13 2025 [19872][1][FATAL] An Imap error detected: "IMAP open error: Can not authenticate to IMAP server: Could not connect to imap.gmail.com:143: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond"
+Tue Nov 11 12:14:13 2025 [19872][1][FATAL] An Imap error detected: "IMAP open error | debug data"
+Tue Nov 11 12:14:13 2025 [19872][1][FATAL] An Imap error detected: "ImapHandler:open: {imap.gmail.com:143\/service=imap\/notls\/novalidate-cert\/secure}INBOX"
+Tue Nov 11 12:14:13 2025 [19872][1][FATAL] An Imap error detected: "ImapHandler:open: aniketparkhi2004@gmail.com"
+Tue Nov 11 12:14:13 2025 [19872][1][FATAL] An Imap error detected: "ImapHandler:open: password is empty: no"
+Tue Nov 11 12:14:13 2025 [19872][1][FATAL] An Imap error detected: "ImapHandler:open: 0"
+Tue Nov 11 12:14:13 2025 [19872][1][FATAL] An Imap error detected: "IMAP open error | debug data end "
+Tue Nov 11 12:14:13 2025 [19872][1][FATAL] ImapHandler trying to use a non valid resource stream.
+Tue Nov 11 12:14:13 2025 [19872][1][FATAL] An Imap error detected: "IMAP open error:Can not authenticate to IMAP server: Could not connect to imap.gmail.com:143: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond"
+Tue Nov 11 12:14:13 2025 [19872][1][FATAL] ImapHandler trying to use a non valid resource stream.
+Tue Nov 11 12:14:13 2025 [19872][1][FATAL] ImapHandler trying to use a non valid resource stream.
+Tue Nov 11 12:14:13 2025 [19872][1][FATAL] An Imap error detected: "Can not authenticate to IMAP server: Could not connect to imap.gmail.com:143: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond"
+Tue Nov 11 12:14:55 2025 [19872][1][FATAL] An Imap error detected: "IMAP open error: Can not authenticate to IMAP server: Could not connect to imap.gmail.com:143: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond"
+Tue Nov 11 12:14:55 2025 [19872][1][FATAL] An Imap error detected: "IMAP open error | debug data"
+Tue Nov 11 12:14:55 2025 [19872][1][FATAL] An Imap error detected: "ImapHandler:open: {imap.gmail.com:143\/service=imap\/notls\/novalidate-cert\/secure}INBOX"
+Tue Nov 11 12:14:55 2025 [19872][1][FATAL] An Imap error detected: "ImapHandler:open: aniketparkhi2004@gmail.com"
+Tue Nov 11 12:14:55 2025 [19872][1][FATAL] An Imap error detected: "ImapHandler:open: password is empty: no"
+Tue Nov 11 12:14:55 2025 [19872][1][FATAL] An Imap error detected: "ImapHandler:open: 0"
+Tue Nov 11 12:14:55 2025 [19872][1][FATAL] An Imap error detected: "IMAP open error | debug data end "
+Tue Nov 11 12:14:55 2025 [19872][1][FATAL] ImapHandler trying to use a non valid resource stream.
+Tue Nov 11 12:14:55 2025 [19872][1][FATAL] An Imap error detected: "IMAP open error:Can not authenticate to IMAP server: Could not connect to imap.gmail.com:143: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond"
+Tue Nov 11 12:14:55 2025 [19872][1][FATAL] ImapHandler trying to use a non valid resource stream.
+Tue Nov 11 12:14:55 2025 [19872][1][FATAL] ImapHandler trying to use a non valid resource stream.
+Tue Nov 11 12:14:55 2025 [19872][1][FATAL] An Imap error detected: "Can not authenticate to IMAP server: Could not connect to imap.gmail.com:143: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond"
+Tue Nov 11 12:15:37 2025 [19872][1][FATAL] An Imap error detected: "IMAP open error: Can not authenticate to IMAP server: Could not connect to imap.gmail.com:143: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond"
+Tue Nov 11 12:15:37 2025 [19872][1][FATAL] An Imap error detected: "IMAP open error | debug data"
+Tue Nov 11 12:15:37 2025 [19872][1][FATAL] An Imap error detected: "ImapHandler:open: {imap.gmail.com:143\/service=imap\/notls\/novalidate-cert\/secure}INBOX"
+Tue Nov 11 12:15:37 2025 [19872][1][FATAL] An Imap error detected: "ImapHandler:open: aniketparkhi2004@gmail.com"
+Tue Nov 11 12:15:37 2025 [19872][1][FATAL] An Imap error detected: "ImapHandler:open: password is empty: no"
+Tue Nov 11 12:15:37 2025 [19872][1][FATAL] An Imap error detected: "ImapHandler:open: 0"
+Tue Nov 11 12:15:37 2025 [19872][1][FATAL] An Imap error detected: "IMAP open error | debug data end "
+Tue Nov 11 12:15:37 2025 [19872][1][FATAL] ImapHandler trying to use a non valid resource stream.
+Tue Nov 11 12:15:37 2025 [19872][1][FATAL] An Imap error detected: "IMAP open error:Can not authenticate to IMAP server: Could not connect to imap.gmail.com:143: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond"
+Tue Nov 11 12:15:37 2025 [19872][1][FATAL] ImapHandler trying to use a non valid resource stream.
+Tue Nov 11 12:15:37 2025 [19872][1][FATAL] ImapHandler trying to use a non valid resource stream.
+Tue Nov 11 12:15:37 2025 [19872][1][FATAL] An Imap error detected: "Can not authenticate to IMAP server: Could not connect to imap.gmail.com:143: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond"
+Tue Nov 11 12:15:41 2025 [19872][1][FATAL] An Imap error detected: "IMAP close error"
+Tue Nov 11 12:15:44 2025 [19872][1][FATAL] An Imap error detected: "IMAP close error"
+Tue Nov 11 12:15:48 2025 [19872][1][FATAL] An Imap error detected: "IMAP close error"
+Tue Nov 11 17:44:02 2025 [1220][1][FATAL] Exception handling in C:\wamp64\www\test1\include\MVC\Controller\SugarController.php:397
+Tue Nov 11 17:44:02 2025 [1220][1][FATAL] Exception in Controller: There is no action by that name: customInfo
+Tue Nov 11 17:44:08 2025 [1220][1][FATAL] Exception handling in C:\wamp64\www\test1\include\MVC\Controller\SugarController.php:397
+Tue Nov 11 17:44:08 2025 [1220][1][FATAL] Exception in Controller: There is no action by that name: customInfo
+Tue Nov 11 17:44:56 2025 [1220][1][FATAL] Exception handling in C:\wamp64\www\test1\include\MVC\Controller\SugarController.php:397
+Tue Nov 11 17:44:56 2025 [1220][1][FATAL] Exception in Controller: There is no action by that name: customInfo
+Tue Nov 11 17:45:02 2025 [1220][1][FATAL] Exception handling in C:\wamp64\www\test1\include\MVC\Controller\SugarController.php:397
+Tue Nov 11 17:45:02 2025 [1220][1][FATAL] Exception in Controller: There is no action by that name: customInfo
+Tue Nov 11 17:45:02 2025 [1220][1][FATAL] Exception handling in C:\wamp64\www\test1\include\MVC\Controller\SugarController.php:397
+Tue Nov 11 17:45:02 2025 [1220][1][FATAL] Exception in Controller: There is no action by that name: customInfo
+Tue Nov 11 17:45:03 2025 [1220][1][FATAL] Exception handling in C:\wamp64\www\test1\include\MVC\Controller\SugarController.php:397
+Tue Nov 11 17:45:03 2025 [1220][1][FATAL] Exception in Controller: There is no action by that name: customInfo
+Tue Nov 11 17:45:03 2025 [1220][1][FATAL] Exception handling in C:\wamp64\www\test1\include\MVC\Controller\SugarController.php:397
+Tue Nov 11 17:45:03 2025 [1220][1][FATAL] Exception in Controller: There is no action by that name: customInfo
+Tue Nov 11 17:45:03 2025 [1220][1][FATAL] Exception handling in C:\wamp64\www\test1\include\MVC\Controller\SugarController.php:397
+Tue Nov 11 17:45:03 2025 [1220][1][FATAL] Exception in Controller: There is no action by that name: customInfo
+Tue Nov 11 17:45:03 2025 [1220][1][FATAL] Exception handling in C:\wamp64\www\test1\include\MVC\Controller\SugarController.php:397
+Tue Nov 11 17:45:03 2025 [1220][1][FATAL] Exception in Controller: There is no action by that name: customInfo
+Tue Nov 11 17:45:04 2025 [1220][1][FATAL] Exception handling in C:\wamp64\www\test1\include\MVC\Controller\SugarController.php:397
+Tue Nov 11 17:45:04 2025 [1220][1][FATAL] Exception in Controller: There is no action by that name: customInfo
+Wed Nov 12 05:30:05 2025 [16624][1][FATAL] Lead created by admin25-11-12 05-30-05
+Wed Nov 12 05:34:00 2025 [16624][1][FATAL] Lead created by : admin 25-11-12 05-34-00
+Wed Nov 12 10:11:39 2025 [16624][1][FATAL] Lead created by : admin On 25-11-12 10-11-39
+Wed Nov 12 10:13:13 2025 [16624][1][FATAL] Lead created by : admin On 25-11-12 10-13-13
+Wed Nov 12 10:14:51 2025 [16624][1][FATAL] Lead created by : admin On 25-11-12 10-14-51
+Wed Nov 12 10:15:25 2025 [16624][1][FATAL] Lead Deleted by : admin On 25-11-12 10-15-25
+Wed Nov 12 10:51:02 2025 [16624][1][FATAL] user login success !!admin Administrator25-11-12 10-51-02
+Wed Nov 12 11:25:30 2025 [16624][1][FATAL] application level hook After UI - Home
+Wed Nov 12 11:27:28 2025 [16624][1][FATAL] application level hook After UI - module name : ModuleBuilder
+Wed Nov 12 11:27:29 2025 [16624][1][FATAL] application level hook After UI - module name : ModuleBuilder
+Wed Nov 12 11:29:09 2025 [16624][1][FATAL] application level hook After UI - module name : Administration
+Wed Nov 12 11:30:23 2025 [16624][1][FATAL] application level hook After UI - module name : Home
+Wed Nov 12 11:30:55 2025 [16624][1][FATAL] application level hook After UI - module name : Administration
+Wed Nov 12 11:31:27 2025 [16624][1][FATAL] application level hook After UI - module name : Home
+Wed Nov 12 11:43:51 2025 [16624][1][FATAL] application level hook After UI - module name : Administration
+Wed Nov 12 11:45:23 2025 [16624][1][FATAL] application level hook After UI - module name : Accounts
+Wed Nov 12 11:57:31 2025 [16624][1][FATAL] application level hook After UI - module name : Contacts
+Wed Nov 12 11:57:31 2025 [16624][1][FATAL] application level hook After UI - module name : Contacts
+Wed Nov 12 11:58:13 2025 [16624][1][FATAL] application level hook After UI - module name : Contacts
+Wed Nov 12 11:58:13 2025 [16624][1][FATAL] application level hook After UI - module name : Contacts
+Wed Nov 12 11:58:55 2025 [16624][1][FATAL] application level hook After UI - module name : Contacts
+Wed Nov 12 11:58:55 2025 [16624][1][FATAL] application level hook After UI - module name : Contacts
+Wed Nov 12 11:59:49 2025 [16624][1][FATAL] application level hook After UI - module name : Contacts
+Wed Nov 12 11:59:50 2025 [16624][1][FATAL] application level hook After UI - module name : Contacts
+Wed Nov 12 12:02:59 2025 [16624][1][FATAL] application level hook After UI for min 5 modules - module name : Contacts
+Wed Nov 12 12:02:59 2025 [16624][1][FATAL] application level hook After UI for min 5 modules - module name : Contacts
+Wed Nov 12 12:26:43 2025 [16624][1][FATAL] application level hook After UI for min 5 modules - module name : Contacts
+Wed Nov 12 12:28:22 2025 [16624][1][FATAL] Lead created by : admin On 25-11-12 12-28-22
+Wed Nov 12 12:28:22 2025 [16624][1][FATAL] application level hook After UI for min 5 modules - module name : Leads
+Wed Nov 12 12:31:05 2025 [16624][1][FATAL] Lead created by : admin On 25-11-12 12-31-05
+Wed Nov 12 12:31:05 2025 [16624][1][FATAL] application level hook After UI for min 5 modules - module name : 
+Wed Nov 12 12:34:21 2025 [16624][1][FATAL] Lead created by : admin On 25-11-12 12-34-21
+Wed Nov 12 12:34:21 2025 [16624][1][FATAL] application level hook After UI for min 5 modules - module name : Leads created by : admin  (ID : 1)
+Wed Nov 12 13:31:32 2025 [16624][1][FATAL] Exception handling in C:\wamp64\www\test1\include\MVC\Controller\SugarController.php:397
+Wed Nov 12 13:31:32 2025 [16624][1][FATAL] Exception in Controller: There is no action by that name: custom_view
+Wed Nov 12 18:18:45 2025 [4896][1][FATAL] user login success !! User = admin Administrator 25-11-12 06:18:45
+Wed Nov 12 20:12:36 2025 [4896][1][FATAL] pre- new cutom view
+Wed Nov 12 20:12:36 2025 [4896][1][FATAL] Display- new cutom view
+Wed Nov 12 20:16:34 2025 [4896][1][FATAL] pre- new cutom view
+Wed Nov 12 20:16:34 2025 [4896][1][FATAL] Display- new cutom view
+Wed Nov 12 20:16:34 2025 [4896][1][FATAL] Exception handling in C:\wamp64\www\test1\include\MVC\Controller\SugarController.php:397
+Wed Nov 12 20:16:34 2025 [4896][1][FATAL] Exception in Controller: Unable to load template 'file:custom/modules//tpls/new_view.tpl'
+Wed Nov 12 20:16:37 2025 [4896][1][FATAL] pre- new cutom view
+Wed Nov 12 20:16:37 2025 [4896][1][FATAL] Display- new cutom view
+Wed Nov 12 20:16:37 2025 [4896][1][FATAL] Exception handling in C:\wamp64\www\test1\include\MVC\Controller\SugarController.php:397
+Wed Nov 12 20:16:37 2025 [4896][1][FATAL] Exception in Controller: Unable to load template 'file:custom/modules//tpls/new_view.tpl'
+Wed Nov 12 20:18:40 2025 [4896][1][FATAL] pre- new cutom view
+Wed Nov 12 20:18:40 2025 [4896][1][FATAL] Display- new cutom view
+Wed Nov 12 20:18:40 2025 [4896][1][FATAL] Exception handling in C:\wamp64\www\test1\include\MVC\Controller\SugarController.php:397
+Wed Nov 12 20:18:40 2025 [4896][1][FATAL] Exception in Controller: Unable to load template 'file:custom/modules//tpls/new_view.tpl'
+Wed Nov 12 20:19:36 2025 [4896][1][FATAL] pre- new cutom view
+Wed Nov 12 20:19:36 2025 [4896][1][FATAL] Display- new cutom view
+Wed Nov 12 20:20:17 2025 [4896][1][FATAL] pre- new cutom view
+Wed Nov 12 20:20:17 2025 [4896][1][FATAL] Display- new cutom view
+Wed Nov 12 20:23:27 2025 [4896][1][FATAL] pre- new cutom view
+Wed Nov 12 20:23:27 2025 [4896][1][FATAL] Display- new cutom view
+Wed Nov 12 20:23:27 2025 [4896][1][FATAL] Exception handling in C:\wamp64\www\test1\include\MVC\Controller\SugarController.php:397
+Wed Nov 12 20:23:27 2025 [4896][1][FATAL] Exception in Controller: Unable to load template 'file:custom/modules//tpls/new_view.tpl'
+Wed Nov 12 20:24:47 2025 [4896][1][FATAL] pre- new cutom view
+Wed Nov 12 20:24:47 2025 [4896][1][FATAL] Display- new cutom view
+Wed Nov 12 20:25:12 2025 [4896][1][FATAL] pre- new cutom view
+Wed Nov 12 20:25:12 2025 [4896][1][FATAL] Display- new cutom view
+Wed Nov 12 20:26:08 2025 [4896][1][FATAL] pre- new cutom view
+Wed Nov 12 20:26:08 2025 [4896][1][FATAL] Display- new cutom view
+Wed Nov 12 20:26:49 2025 [4896][1][FATAL] pre- new cutom view
+Wed Nov 12 20:26:49 2025 [4896][1][FATAL] Display- new cutom view
+Wed Nov 12 20:27:05 2025 [4896][1][FATAL] pre- new cutom view
+Wed Nov 12 20:27:08 2025 [4896][1][FATAL] pre- new cutom view
+Wed Nov 12 20:27:34 2025 [4896][1][FATAL] pre- new cutom view
+Wed Nov 12 20:27:34 2025 [4896][1][FATAL] Display- new cutom view
+Wed Nov 12 20:27:36 2025 [4896][1][FATAL] pre- new cutom view
+Wed Nov 12 20:27:36 2025 [4896][1][FATAL] Display- new cutom view
+Wed Nov 12 20:28:01 2025 [4896][1][FATAL] pre- new cutom view
+Wed Nov 12 20:28:01 2025 [4896][1][FATAL] Display- new cutom view
+Wed Nov 12 20:28:04 2025 [4896][1][FATAL] pre- new cutom view
+Wed Nov 12 20:28:04 2025 [4896][1][FATAL] Display- new cutom view
+Wed Nov 12 20:29:36 2025 [4896][1][FATAL] pre- new cutom view
+Wed Nov 12 20:29:36 2025 [4896][1][FATAL] Display- new cutom view
+Wed Nov 12 20:30:07 2025 [4896][1][FATAL] pre- new cutom view
+Wed Nov 12 20:30:07 2025 [4896][1][FATAL] Display- new cutom view
+Wed Nov 12 20:30:09 2025 [4896][1][FATAL] pre- new cutom view
+Wed Nov 12 20:30:09 2025 [4896][1][FATAL] Display- new cutom view
+Wed Nov 12 20:30:50 2025 [4896][1][FATAL] pre- new cutom view
+Wed Nov 12 20:30:50 2025 [4896][1][FATAL] Display- new cutom view
+Wed Nov 12 20:30:54 2025 [4896][1][FATAL] pre- new cutom view
+Wed Nov 12 20:30:54 2025 [4896][1][FATAL] Display- new cutom view
+Wed Nov 12 20:31:21 2025 [4896][1][FATAL] pre- new cutom view
+Wed Nov 12 20:31:21 2025 [4896][1][FATAL] Display- new cutom view
+Wed Nov 12 20:31:36 2025 [4896][1][FATAL] pre- new cutom view
+Wed Nov 12 20:31:36 2025 [4896][1][FATAL] Display- new cutom view
+Wed Nov 12 20:31:38 2025 [4896][1][FATAL] pre- new cutom view
+Wed Nov 12 20:31:38 2025 [4896][1][FATAL] Display- new cutom view
+Wed Nov 12 20:31:46 2025 [4896][1][FATAL] pre- new cutom view
+Wed Nov 12 20:31:46 2025 [4896][1][FATAL] Display- new cutom view
+Wed Nov 12 20:31:48 2025 [4896][1][FATAL] pre- new cutom view
+Wed Nov 12 20:31:48 2025 [4896][1][FATAL] Display- new cutom view
+Wed Nov 12 20:31:50 2025 [4896][1][FATAL] pre- new cutom view
+Wed Nov 12 20:31:50 2025 [4896][1][FATAL] Display- new cutom view
+Wed Nov 12 20:32:00 2025 [4896][1][FATAL] pre- new cutom view
+Wed Nov 12 20:32:00 2025 [4896][1][FATAL] Display- new cutom view
+Wed Nov 12 20:32:52 2025 [4896][1][FATAL] pre- new cutom view
+Wed Nov 12 20:32:52 2025 [4896][1][FATAL] Display- new cutom view
+Wed Nov 12 20:32:54 2025 [4896][1][FATAL] pre- new cutom view
+Wed Nov 12 20:32:54 2025 [4896][1][FATAL] Display- new cutom view
+Wed Nov 12 20:33:41 2025 [4896][1][FATAL] pre- new cutom view
+Wed Nov 12 20:33:41 2025 [4896][1][FATAL] Display- new cutom view
+Wed Nov 12 20:33:47 2025 [4896][1][FATAL] pre- new cutom view
+Wed Nov 12 20:33:47 2025 [4896][1][FATAL] Display- new cutom view
+Wed Nov 12 20:33:54 2025 [4896][1][FATAL] pre- new cutom view
+Wed Nov 12 20:33:54 2025 [4896][1][FATAL] Display- new cutom view
+Wed Nov 12 20:35:24 2025 [4896][1][FATAL] pre- new cutom view
+Wed Nov 12 20:35:24 2025 [4896][1][FATAL] Display- new cutom view
+Wed Nov 12 20:35:30 2025 [4896][1][FATAL] pre- new cutom view
+Wed Nov 12 20:35:30 2025 [4896][1][FATAL] Display- new cutom view
+Wed Nov 12 20:35:50 2025 [4896][1][FATAL] pre- new cutom view
+Wed Nov 12 20:35:50 2025 [4896][1][FATAL] Display- new cutom view
+Wed Nov 12 20:36:07 2025 [4896][1][FATAL] pre- new cutom view
+Wed Nov 12 20:36:07 2025 [4896][1][FATAL] Display- new cutom view
+Wed Nov 12 20:36:24 2025 [4896][1][FATAL] pre- new cutom view
+Wed Nov 12 20:36:24 2025 [4896][1][FATAL] Display- new cutom view
+Wed Nov 12 20:36:28 2025 [4896][1][FATAL] pre- new cutom view
+Wed Nov 12 20:36:28 2025 [4896][1][FATAL] Display- new cutom view
+Wed Nov 12 20:36:33 2025 [4896][1][FATAL] pre- new cutom view
+Wed Nov 12 20:36:33 2025 [4896][1][FATAL] Display- new cutom view
+Thu Nov 13 00:51:13 2025 [27736][1][FATAL] user login success !! User = admin Administrator 25-11-13 12:51:13
+Thu Nov 13 00:52:01 2025 [27736][1][FATAL] pre- new cutom view
+Thu Nov 13 00:52:01 2025 [27736][1][FATAL] Display- new cutom view
+Thu Nov 13 00:52:01 2025 [27736][1][FATAL] 
+Thu Nov 13 00:52:10 2025 [27736][1][FATAL] pre- new cutom view
+Thu Nov 13 00:52:10 2025 [27736][1][FATAL] Display- new cutom view
+Thu Nov 13 00:52:10 2025 [27736][1][FATAL] John
+Thu Nov 13 00:53:38 2025 [27736][1][FATAL] pre- new cutom view
+Thu Nov 13 00:53:38 2025 [27736][1][FATAL] Display- new cutom view
+Thu Nov 13 00:53:38 2025 [27736][1][FATAL] John
+Thu Nov 13 00:53:49 2025 [27736][1][FATAL] pre- new cutom view
+Thu Nov 13 00:53:49 2025 [27736][1][FATAL] Display- new cutom view
+Thu Nov 13 00:53:49 2025 [27736][1][FATAL] John
+Thu Nov 13 02:46:39 2025 [27736][1][FATAL] pre- new cutom view
+Thu Nov 13 02:46:39 2025 [27736][1][FATAL] Display- new cutom view
+Thu Nov 13 02:46:39 2025 [27736][1][FATAL] John
+Thu Nov 13 03:46:41 2025 [14796][1][FATAL] user login success !! User = admin Administrator 25-11-13 03:46:41
+Thu Nov 13 03:47:34 2025 [14796][1][FATAL] pre- new cutom view
+Thu Nov 13 03:47:34 2025 [14796][1][FATAL] Display- new cutom view
+Thu Nov 13 03:47:34 2025 [14796][1][FATAL] John
+Thu Nov 13 03:49:09 2025 [14796][1][FATAL] pre- new cutom view
+Thu Nov 13 03:49:09 2025 [14796][1][FATAL] Display- new cutom view
+Thu Nov 13 03:49:09 2025 [14796][1][FATAL] John
+Thu Nov 13 03:50:57 2025 [14796][1][FATAL] pre- new cutom view
+Thu Nov 13 03:50:57 2025 [14796][1][FATAL] Display- new cutom view
+Thu Nov 13 03:50:57 2025 [14796][1][FATAL] John
+Thu Nov 13 03:54:06 2025 [14796][1][FATAL] pre- new cutom view
+Thu Nov 13 03:54:06 2025 [14796][1][FATAL] Display- new cutom view
+Thu Nov 13 03:54:06 2025 [14796][1][FATAL] Array
+(
+    [module] => Contacts
+    [action] => new_view
+    [fname] => John
+    [lname] => Doe
+    [email] => aniket@gmail.com
+    [message] => some message
+    [submitbutton] => Submit
+)
+
+Thu Nov 13 03:54:06 2025 [14796][1][FATAL] [Submit]
+Thu Nov 13 03:54:06 2025 [14796][1][FATAL] John
+Thu Nov 13 03:55:29 2025 [14796][1][FATAL] pre- new cutom view
+Thu Nov 13 03:55:29 2025 [14796][1][FATAL] Display- new cutom view
+Thu Nov 13 03:55:29 2025 [14796][1][FATAL] Array
+(
+    [module] => Contacts
+    [action] => new_view
+    [fname] => John
+    [lname] => Doe
+    [email] => aniket@gmail.com
+    [message] => some message
+    [submitbutton] => Submit
+)
+
+Thu Nov 13 03:55:29 2025 [14796][1][FATAL] [Submit]
+Thu Nov 13 03:55:29 2025 [14796][1][FATAL] John
+Thu Nov 13 03:55:34 2025 [14796][1][FATAL] pre- new cutom view
+Thu Nov 13 03:55:34 2025 [14796][1][FATAL] Display- new cutom view
+Thu Nov 13 03:55:34 2025 [14796][1][FATAL] Array
+(
+    [module] => Contacts
+    [action] => new_view
+    [fname] => John
+    [lname] => Doe
+    [email] => aniket@gmail.com
+    [message] => some message
+    [submitbutton] => Submit
+)
+
+Thu Nov 13 03:55:34 2025 [14796][1][FATAL] [Submit]
+Thu Nov 13 03:55:34 2025 [14796][1][FATAL] John
+Thu Nov 13 03:55:54 2025 [14796][1][FATAL] pre- new cutom view
+Thu Nov 13 03:55:54 2025 [14796][1][FATAL] Display- new cutom view
+Thu Nov 13 03:55:54 2025 [14796][1][FATAL] Array
+(
+    [module] => Contacts
+    [action] => new_view
+    [fname] => John
+    [lname] => Doe
+    [email] => aniket@gmail.com
+    [message] => some message
+    [submitbutton] => Submit
+)
+
+Thu Nov 13 03:55:54 2025 [14796][1][FATAL] [Submit]
+Thu Nov 13 03:55:54 2025 [14796][1][FATAL] John
+Thu Nov 13 03:56:01 2025 [14796][1][FATAL] pre- new cutom view
+Thu Nov 13 03:56:01 2025 [14796][1][FATAL] Display- new cutom view
+Thu Nov 13 03:56:01 2025 [14796][1][FATAL] Array
+(
+    [module] => Contacts
+    [action] => new_view
+)
+
+Thu Nov 13 03:56:01 2025 [14796][1][FATAL] []
+Thu Nov 13 03:56:01 2025 [14796][1][FATAL] John
+Thu Nov 13 03:56:23 2025 [14796][1][FATAL] pre- new cutom view
+Thu Nov 13 03:56:23 2025 [14796][1][FATAL] Display- new cutom view
+Thu Nov 13 03:56:23 2025 [14796][1][FATAL] Array
+(
+    [module] => Contacts
+    [action] => new_view
+)
+
+Thu Nov 13 03:56:23 2025 [14796][1][FATAL] []
+Thu Nov 13 03:56:23 2025 [14796][1][FATAL] John
+Thu Nov 13 03:57:39 2025 [14796][1][FATAL] pre- new cutom view
+Thu Nov 13 03:57:39 2025 [14796][1][FATAL] Display- new cutom view
+Thu Nov 13 03:57:39 2025 [14796][1][FATAL] Array
+(
+    [module] => Contacts
+    [action] => new_view
+)
+
+Thu Nov 13 03:57:39 2025 [14796][1][FATAL] []
+Thu Nov 13 03:57:39 2025 [14796][1][FATAL] John
+Thu Nov 13 04:18:43 2025 [14796][1][FATAL] pre- new cutom view
+Thu Nov 13 04:18:43 2025 [14796][1][FATAL] Display- new cutom view
+Thu Nov 13 04:18:43 2025 [14796][1][FATAL] Array
+(
+    [module] => Contacts
+    [action] => new_view
+)
+
+Thu Nov 13 04:18:43 2025 [14796][1][FATAL] []
+Thu Nov 13 04:18:43 2025 [14796][1][FATAL] Johnwhat
+Thu Nov 13 04:19:34 2025 [14796][1][FATAL] pre- new cutom view
+Thu Nov 13 04:19:34 2025 [14796][1][FATAL] Display- new cutom view
+Thu Nov 13 04:19:34 2025 [14796][1][FATAL] Array
+(
+    [module] => Contacts
+    [action] => new_view
+)
+
+Thu Nov 13 04:19:34 2025 [14796][1][FATAL] []
+Thu Nov 13 04:20:35 2025 [14796][1][FATAL] pre- new cutom view
+Thu Nov 13 04:20:35 2025 [14796][1][FATAL] Display- new cutom view
+Thu Nov 13 04:20:35 2025 [14796][1][FATAL] Array
+(
+    [module] => Contacts
+    [action] => new_view
+)
+
+Thu Nov 13 04:20:35 2025 [14796][1][FATAL] []
+Thu Nov 13 04:20:35 2025 [14796][1][FATAL] John
+Thu Nov 13 04:20:55 2025 [14796][1][FATAL] pre- new cutom view
+Thu Nov 13 04:20:55 2025 [14796][1][FATAL] Display- new cutom view ==
+Thu Nov 13 04:20:55 2025 [14796][1][FATAL] Array
+(
+    [module] => Contacts
+    [action] => new_view
+)
+
+Thu Nov 13 04:20:55 2025 [14796][1][FATAL] []
+Thu Nov 13 04:20:55 2025 [14796][1][FATAL] John
+Thu Nov 13 04:21:59 2025 [14796][1][FATAL] pre- new cutom view
+Thu Nov 13 04:21:59 2025 [14796][1][FATAL] Display- new cutom view ==
+Thu Nov 13 04:21:59 2025 [14796][1][FATAL] Array
+(
+    [module] => Contacts
+    [action] => new_view
+    [fname] => John
+    [lname] => Doe
+    [email] => aniket@gmail.com
+    [message] => some message of contacts
+    [submitbutton] => Submit
+)
+
+Thu Nov 13 04:21:59 2025 [14796][1][FATAL] [Submit]
+Thu Nov 13 04:21:59 2025 [14796][1][FATAL] John
+Thu Nov 13 04:22:36 2025 [14796][1][FATAL] pre- new cutom view
+Thu Nov 13 04:22:36 2025 [14796][1][FATAL] Display- new cutom view ==
+Thu Nov 13 04:22:36 2025 [14796][1][FATAL] Array
+(
+    [module] => Contacts
+    [action] => new_view
+    [fname] => John
+    [lname] => Doe
+    [email] => aniket@gmail.com
+    [message] => some message of contacts
+    [submitbutton] => Submit
+)
+
+Thu Nov 13 04:22:36 2025 [14796][1][FATAL] [Submit]
+Thu Nov 13 04:22:36 2025 [14796][1][FATAL] John
+Thu Nov 13 04:22:54 2025 [14796][1][FATAL] pre- new cutom view
+Thu Nov 13 04:22:54 2025 [14796][1][FATAL] Display- new cutom view ==
+Thu Nov 13 04:22:54 2025 [14796][1][FATAL] Array
+(
+    [module] => Contacts
+    [action] => new_view
+    [fname] => John
+    [lname] => Doe
+    [email] => aniket@gmail.com
+    [message] => some message of contacts
+    [submitbutton] => Submit
+)
+
+Thu Nov 13 04:22:54 2025 [14796][1][FATAL] [Submit]
+Thu Nov 13 04:22:54 2025 [14796][1][FATAL] John
+Thu Nov 13 04:22:54 2025 [14796][1][FATAL] Custom setting loaded successfully
+Thu Nov 13 07:08:56 2025 [14796][999059bc-12de-4efd-a191-69130db3f1d6][FATAL] user login success !! User = support_user 25-11-13 07:08:56
+Thu Nov 13 07:09:39 2025 [14796][999059bc-12de-4efd-a191-69130db3f1d6][FATAL] user login success !! User = support_user 25-11-13 07:09:39
+Thu Nov 13 07:09:58 2025 [14796][999059bc-12de-4efd-a191-69130db3f1d6][FATAL] application level hook After UI for min 5 modules - module name : Leads created by : support_user  (ID : 999059bc-12de-4efd-a191-69130db3f1d6)
+Thu Nov 13 07:09:58 2025 [14796][999059bc-12de-4efd-a191-69130db3f1d6][FATAL] application level hook After UI for min 5 modules - module name : Leads created by : support_user  (ID : 999059bc-12de-4efd-a191-69130db3f1d6)
+Thu Nov 13 07:11:32 2025 [14796][87530dc8-2353-6a1f-28a1-691306317963][FATAL] user login success !! User = sales_user 25-11-13 07:11:32
+Thu Nov 13 07:27:33 2025 [14796][1][FATAL] Exception handling in C:\wamp64\www\test1\include\MVC\Controller\SugarController.php:397
+Thu Nov 13 07:27:33 2025 [14796][1][FATAL] Exception in Controller: Error retrieving record. This record may be deleted or you may not be authorized to view it.
+Thu Nov 13 12:10:23 2025 [14796][1][FATAL] pre- new cutom view
+Thu Nov 13 12:10:23 2025 [14796][1][FATAL] Display- new cutom view ==
+Thu Nov 13 12:10:23 2025 [14796][1][FATAL] Array
+(
+    [module] => Contacts
+    [action] => new_view
+)
+
+Thu Nov 13 12:10:23 2025 [14796][1][FATAL] []
+Thu Nov 13 12:10:23 2025 [14796][1][FATAL] John
+Thu Nov 13 12:10:24 2025 [14796][1][FATAL] Custom setting loaded successfully
+Thu Nov 13 12:10:34 2025 [14796][1][FATAL] pre- new cutom view
+Thu Nov 13 12:10:34 2025 [14796][1][FATAL] Display- new cutom view ==
+Thu Nov 13 12:10:34 2025 [14796][1][FATAL] Array
+(
+    [module] => Contacts
+    [action] => new_view
+    [fname] => aniket
+    [lname] => parkhi
+    [email] => aniket@gmail.com
+    [message] => some message of contacts
+    [submitbutton] => Submit
+)
+
+Thu Nov 13 12:10:34 2025 [14796][1][FATAL] [Submit]
+Thu Nov 13 12:10:34 2025 [14796][1][FATAL] aniket
+Thu Nov 13 12:10:34 2025 [14796][1][FATAL] Custom setting loaded successfully
+Thu Nov 13 13:43:29 2025 [14796][1][FATAL] user login success !! User = admin Administrator 25-11-13 01:43:29
+Thu Nov 13 13:53:12 2025 [14796][1][FATAL] user login success !! User = admin Administrator 25-11-13 01:53:12
+Thu Nov 13 13:55:01 2025 [14796][1][FATAL] user login success !! User = admin Administrator 25-11-13 01:55:01
+Thu Nov 13 13:56:27 2025 [14796][1][FATAL] user login success !! User = admin Administrator 25-11-13 01:56:27
+Thu Nov 13 13:56:34 2025 [14796][1][FATAL] user login success !! User = admin Administrator 25-11-13 01:56:34
+Thu Nov 13 14:00:07 2025 [14796][1][FATAL] user login success !! User = admin Administrator 25-11-13 02:00:06
+Thu Nov 13 14:01:59 2025 [14796][1][FATAL] user login success !! User = admin Administrator 25-11-13 02:01:59
+Fri Nov 14 04:56:22 2025 [6540][1][FATAL] user login success !! User = admin Administrator 25-11-14 04:56:22
+Fri Nov 14 05:09:27 2025 [6540][999059bc-12de-4efd-a191-69130db3f1d6][FATAL] user login success !! User = support_user 25-11-14 05:09:27
+Fri Nov 14 05:27:53 2025 [6540][87530dc8-2353-6a1f-28a1-691306317963][FATAL] user login success !! User = sales_user 25-11-14 05:27:53
+Fri Nov 14 06:05:39 2025 [6540][87530dc8-2353-6a1f-28a1-691306317963][FATAL] user login success !! User = sales_user 25-11-14 06:05:39
+Fri Nov 14 06:06:09 2025 [6540][999059bc-12de-4efd-a191-69130db3f1d6][FATAL] user login success !! User = support_user 25-11-14 06:06:09
+Fri Nov 14 06:11:45 2025 [6540][1][FATAL] ImapHandler trying to use a non valid resource stream.
+Fri Nov 14 06:11:45 2025 [6540][1][FATAL] ImapHandler trying to use a non valid resource stream.
+Fri Nov 14 06:13:00 2025 [6540][1][FATAL] Lead created by : admin On 25-11-14 06-13-00
+Fri Nov 14 06:13:00 2025 [6540][1][FATAL] application level hook After UI for min 5 modules - module name : Leads created by : admin  (ID : 1)
+Fri Nov 14 06:15:51 2025 [6540][1][FATAL] Lead created by : admin On 25-11-14 06-15-51
+Fri Nov 14 06:15:51 2025 [6540][1][FATAL] application level hook After UI for min 5 modules - module name : Leads created by : admin  (ID : 1)
+Fri Nov 14 06:18:18 2025 [6540][1][FATAL] log call at: modules/EmailMan/tpls/config.tpl - styleChecked is not set
+Fri Nov 14 06:20:27 2025 [6540][1][FATAL] Lead created by : admin On 25-11-14 06-20-27
+Fri Nov 14 06:20:27 2025 [6540][1][FATAL] application level hook After UI for min 5 modules - module name : Leads created by : admin  (ID : 1)
+Fri Nov 14 06:32:37 2025 [6540][1][FATAL] Lead created by : admin On 25-11-14 06-32-37
+Fri Nov 14 06:32:37 2025 [6540][1][FATAL] application level hook After UI for min 5 modules - module name : Leads created by : admin  (ID : 1)
+Fri Nov 14 06:33:07 2025 [6540][1][FATAL] ImapHandler trying to use a non valid resource stream.
+Fri Nov 14 06:33:07 2025 [6540][1][FATAL] ImapHandler trying to use a non valid resource stream.
+Fri Nov 14 06:34:00 2025 [6540][1][SECURITY] Email Error: Not authorized to use Outbound Account "system"
+Fri Nov 14 06:34:00 2025 [6540][1][SECURITY] User admin Administrator attempted to send an email using incorrect email account settings in which they do not have access to.
+Fri Nov 14 06:34:12 2025 [6540][1][SECURITY] Email Error: Not authorized to use Outbound Account "system"
+Fri Nov 14 06:34:12 2025 [6540][1][SECURITY] User admin Administrator attempted to send an email using incorrect email account settings in which they do not have access to.
+Fri Nov 14 06:34:51 2025 [6540][1][FATAL] Error: File [modules/CampaignLog/metadata/detailviewdefs.php] is missing. Unable to create because no corresponding HTML file was found.
+Fri Nov 14 06:35:03 2025 [6540][1][SECURITY] Email Error: Not authorized to use Outbound Account "system"
+Fri Nov 14 06:35:03 2025 [6540][1][SECURITY] User admin Administrator attempted to send an email using incorrect email account settings in which they do not have access to.
+Fri Nov 14 06:38:20 2025 [6540][1][SECURITY] Email Error: Not authorized to use Outbound Account "system"
+Fri Nov 14 06:38:20 2025 [6540][1][SECURITY] User admin Administrator attempted to send an email using incorrect email account settings in which they do not have access to.
+Fri Nov 14 06:38:28 2025 [6540][1][SECURITY] Email Error: Not authorized to use Outbound Account "system"
+Fri Nov 14 06:38:28 2025 [6540][1][SECURITY] User admin Administrator attempted to send an email using incorrect email account settings in which they do not have access to.
+Fri Nov 14 06:38:53 2025 [6540][1][SECURITY] Email Error: Not authorized to use Outbound Account "system"
+Fri Nov 14 06:38:53 2025 [6540][1][SECURITY] User admin Administrator attempted to send an email using incorrect email account settings in which they do not have access to.
+Fri Nov 14 06:42:12 2025 [6540][1][FATAL] Lead created by : admin On 25-11-14 06-42-12
+Fri Nov 14 06:42:12 2025 [6540][1][FATAL] application level hook After UI for min 5 modules - module name : Leads created by : admin  (ID : 1)
+Fri Nov 14 10:30:24 2025 [6540][1][FATAL] user login success !! User = admin Administrator 25-11-14 10:30:24
+Fri Nov 14 10:41:06 2025 [6540][999059bc-12de-4efd-a191-69130db3f1d6][FATAL] user login success !! User = support_user 25-11-14 10:41:06
+Fri Nov 14 10:41:43 2025 [6540][87530dc8-2353-6a1f-28a1-691306317963][FATAL] user login success !! User = sales_user 25-11-14 10:41:43
+Mon Nov 17 05:02:14 2025 [3488][1][FATAL] user login success !! User = admin Administrator 25-11-17 05:02:14
+Mon Nov 17 05:05:11 2025 [3488][1][FATAL] Lead created by : admin On 25-11-17 05-05-11
+Mon Nov 17 05:05:11 2025 [3488][1][FATAL] application level hook After UI for min 5 modules - module name : Leads created by : admin  (ID : 1)
+Mon Nov 17 05:06:50 2025 [3488][1][FATAL] Lead Deleted by : admin On 25-11-17 05-06-50
+Mon Nov 17 05:08:20 2025 [3488][1][FATAL] pre- new cutom view
+Mon Nov 17 05:08:20 2025 [3488][1][FATAL] Display- new cutom view ==
+Mon Nov 17 05:08:20 2025 [3488][1][FATAL] Array
+(
+    [module] => Contacts
+    [action] => new_view
+)
+
+Mon Nov 17 05:08:20 2025 [3488][1][FATAL] []
+Mon Nov 17 05:08:20 2025 [3488][1][FATAL] aniket
+Mon Nov 17 05:08:20 2025 [3488][1][FATAL] Custom setting loaded successfully
+Tue Nov 18 04:51:07 2025 [7620][1][FATAL] user login success !! User = admin Administrator 25-11-18 04:51:07
+Tue Nov 18 04:52:02 2025 [7620][1][FATAL] Exception handling in C:\wamp64\www\test1\include\MVC\Controller\SugarController.php:397
+Tue Nov 18 04:52:02 2025 [7620][1][FATAL] Exception in Controller: There is no action by that name: custom_view
+Tue Nov 18 04:52:10 2025 [7620][1][FATAL] pre- new cutom view
+Tue Nov 18 04:52:10 2025 [7620][1][FATAL] Display- new cutom view ==
+Tue Nov 18 04:52:10 2025 [7620][1][FATAL] Array
+(
+    [module] => Contacts
+    [action] => new_view
+)
+
+Tue Nov 18 04:52:10 2025 [7620][1][FATAL] []
+Tue Nov 18 04:52:10 2025 [7620][1][FATAL] aniket
+Tue Nov 18 04:52:10 2025 [7620][1][FATAL] Custom setting loaded successfully
+Tue Nov 18 05:22:48 2025 [7620][1][FATAL] pre- new cutom view
+Tue Nov 18 05:22:48 2025 [7620][1][FATAL] Display- new cutom view ==
+Tue Nov 18 05:22:48 2025 [7620][1][FATAL] Array
+(
+    [module] => Contacts
+    [action] => new_view
+)
+
+Tue Nov 18 05:22:48 2025 [7620][1][FATAL] []
+Tue Nov 18 05:22:48 2025 [7620][1][FATAL] aniket
+Tue Nov 18 05:22:48 2025 [7620][1][FATAL] Custom setting loaded successfully
+Tue Nov 18 05:38:21 2025 [7620][1][FATAL] Lead created by : admin On 25-11-18 05-38-21
+Tue Nov 18 05:38:21 2025 [7620][1][FATAL] application level hook After UI for min 5 modules - module name : Leads created by : admin  (ID : 1)
+Tue Nov 18 05:38:40 2025 [7620][1][FATAL] Lead Deleted by : admin On 25-11-18 05-38-40
+Tue Nov 18 05:39:43 2025 [7620][1][FATAL] pre- new cutom view
+Tue Nov 18 05:39:43 2025 [7620][1][FATAL] Display- new cutom view ==
+Tue Nov 18 05:39:43 2025 [7620][1][FATAL] Array
+(
+    [module] => Contacts
+    [action] => new_view
+    [fname] => aniket
+    [lname] => 
+    [email] => aniket@gmail.com
+    [message] => some message of contacts
+    [submitbutton] => Submit
+)
+
+Tue Nov 18 05:39:43 2025 [7620][1][FATAL] [Submit]
+Tue Nov 18 05:39:43 2025 [7620][1][FATAL] aniket
+Tue Nov 18 05:39:43 2025 [7620][1][FATAL] Custom setting loaded successfully
+Tue Nov 18 05:41:51 2025 [7620][1][FATAL] user login success !! User = admin Administrator 25-11-18 05:41:51
+Tue Nov 18 06:15:29 2025 [7620][1][FATAL] application level hook After UI for min 5 modules - module name : Contacts created by : admin  (ID : 1)
+Tue Nov 18 06:15:29 2025 [7620][1][FATAL] application level hook After UI for min 5 modules - module name : Contacts created by : admin  (ID : 1)
+Tue Nov 18 06:17:21 2025 [7620][1][FATAL] Lead created by : admin On 25-11-18 06-17-21
+Tue Nov 18 06:17:21 2025 [7620][1][FATAL] application level hook After UI for min 5 modules - module name : Leads created by : admin  (ID : 1)
+Tue Nov 18 06:18:19 2025 [7620][1][FATAL] Lead created by : admin On 25-11-18 06-18-19
+Tue Nov 18 06:18:19 2025 [7620][1][FATAL] application level hook After UI for min 5 modules - module name : Leads created by : admin  (ID : 1)
